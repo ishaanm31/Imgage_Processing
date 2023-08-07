@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Image_proc", "Image_proc.vcxproj", "{3A073A71-0810-42D2-8599-FDE77518AECA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A073A71-0810-42D2-8599-FDE77518AECA}.Debug|x64.ActiveCfg = Debug|x64
+		{3A073A71-0810-42D2-8599-FDE77518AECA}.Debug|x64.Build.0 = Debug|x64
+		{3A073A71-0810-42D2-8599-FDE77518AECA}.Release|x64.ActiveCfg = Release|x64
+		{3A073A71-0810-42D2-8599-FDE77518AECA}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2417D72B-214E-4E1E-8920-8A0431B6E3B5}
+	EndGlobalSection
+EndGlobal
